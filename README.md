@@ -2,7 +2,7 @@
 
 A data visualization project analyzing how factors like age, gender, BMI, region, dependents, and smoking habits affect individual medical expenses. Built entirely using **Power BI**, **Power Query**, **Excel**, and **PowerPoint**.
 
-![Medical Cost Analysis](https://img.shields.io/badge/Tool-PowerBI-blue) ![Excel](https://img.shields.io/badge/Tool-Excel-green) ![PowerPoint](https://img.shields.io/badge/Presentation-Covered-orange)
+![Medical Cost Analysis]![Excel](https://img.shields.io/badge/Tool-Excel-green) ![PowerPoint](https://img.shields.io/badge/Presentation-Covered-orange)
 
 ---
 
