@@ -6,53 +6,41 @@ A data visualization project analyzing how factors like age, gender, BMI, region
 
 ---
 
-## 📌 Project Highlights
+## 📌 Medical Cost Analysis Dashboard – Project Summary
+🔍 Project Highlights
+Identified key drivers influencing medical costs using Excel.
 
-- 🔍 Identified key drivers influencing medical costs.
-- 📊 Built an interactive dashboard in **Power BI**.
-- ⚙️ Cleaned and transformed data using **Power Query**.
-- 🎯 Delivered insights through a **PowerPoint presentation**.
+Cleaned and transformed data using Excel functions (e.g., IF, VLOOKUP, AVERAGEIFS, conditional formatting).
 
----
+Built an interactive dashboard in Excel using PivotTables, slicers, and charts.
 
-## 📂 Files Included
+Delivered actionable insights through a clean, stakeholder-friendly PowerPoint presentation.
 
-- `insurance.csv` - The original dataset used for analysis.
-- `Medical Cost Analysis Presentation.pptx` - Final summarized presentation.
-- Power BI Dashboard - [Hosted/Attached Separately] *(if applicable)*
+🧠 Key Insights
 
----
+Category	Insight
+💰 Avg. Medical Charges	$13,270 overall average
+🚬 Smokers	Pay 4x more in medical expenses vs non-smokers
+⚖️ BMI	Higher BMI correlates with higher charges
+🌍 Region	Southeast leads in both average charges and BMI
+👨‍👩‍👧‍👦 Dependents	Households with 3 dependents had the highest avg. charges
+🚻 Gender	Males slightly outspend females in medical costs
+🛠️ Tools & Skills Used (In-line)
+Excel (pivot tables, slicers, charts, formulas, conditional formatting), PowerPoint (data storytelling and presentation), data cleaning, medical cost trend analysis, segmentation by lifestyle factors, and stakeholder reporting.
 
-## 🔍 Key Insights
+📈 Dashboard Features (in Excel)
 
-| Category              | Insight                                                                 |
-|-----------------------|-------------------------------------------------------------------------|
-| 💰 Avg. Medical Charges | `$13,270` overall average                                               |
-| 🚬 Smokers             | Pay **4x more** in medical expenses vs non-smokers                      |
-| ⚖️ BMI                 | Higher BMI correlates with higher charges                               |
-| 🌍 Region              | **Southeast** leads in both average charges and BMI                     |
-| 👨‍👩‍👧‍👦 Dependents       | Households with 3 dependents had the **highest avg. charges**             |
-| 🚻 Gender              | Males slightly outspend females in medical costs                        |
+📍 Cost comparison by gender, smoking status, region
 
----
+📍 Interactive filters for BMI, age, dependents
 
-## 🛠 Tools & Tech Used
+📍 Clear visual correlation between health factors and expenses
 
-- **Power BI** – Interactive dashboards & visual analytics  
-- **Power Query** – Data cleaning & transformation  
-- **Excel** – Initial data exploration  
-- **PowerPoint** – Final presentation delivery  
+📍 Simple, professional layout designed for executive review
+
 
 ---
 
-## 📈 Dashboard Features
-
-- 📍 Average cost comparison by **gender**, **smoker status**, **region**
-- 📍 Dynamic filters for **BMI**, **age**, **dependents**
-- 📍 Visual correlation between lifestyle and expenses
-- 📍 Clean UI/UX for stakeholder review
-
----
 
 ## 📊 Dataset Source
 
