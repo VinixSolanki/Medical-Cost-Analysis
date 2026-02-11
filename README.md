@@ -53,7 +53,7 @@ Excel (pivot tables, slicers, charts, formulas, conditional formatting), PowerPo
 **Vinit Solanki**  
 Data Analyst | Power BI Enthusiast | Visualization Storyteller  
 📧 [vinitpvt11@gmail.com]  
-🌐 [https://www.datascienceportfol.io/vinitpvt11]
+🌐 [https://vinit-solanki-analytics-g1wz53c.gamma.site/]
 
 ---
 
